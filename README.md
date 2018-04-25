@@ -1,6 +1,8 @@
 # Test
-Java
+JIRA
+Java 
 Selenium
 Cucumber
 TestNG
 Junit
+
